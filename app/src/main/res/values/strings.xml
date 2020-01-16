@@ -5,4 +5,5 @@
     <string name="live_data">Live Data</string>
     <string name="databinding_live_data">DataBinding LiveData</string>
     <string name="databinding">DataBinding</string>
+    <string name="add">Sumar</string>
 </resources>
