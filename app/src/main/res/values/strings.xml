@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MVVMUdemyCourse</string>
+    <string name="add_view_model">Sumar ViewModel</string>
+    <string name="use_view_model">User ViewModel</string>
+    <string name="live_data">Live Data</string>
+    <string name="databinding_live_data">DataBinding LiveData</string>
+    <string name="databinding">DataBinding</string>
 </resources>
